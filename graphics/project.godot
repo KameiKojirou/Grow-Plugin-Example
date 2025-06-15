@@ -23,7 +23,7 @@ example_grow_plugin="*res://addons/example-grow-plugin/grow-plugin.gd"
 
 [editor_plugins]
 
-enabled=PackedStringArray("res://addons/example-grow-plugin-two/plugin.cfg", "res://addons/example-grow-plugin/plugin.cfg")
+enabled=PackedStringArray("res://addons/example-grow-plugin/plugin.cfg")
 
 [rendering]
 
