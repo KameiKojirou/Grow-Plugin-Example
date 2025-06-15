@@ -1,0 +1,14 @@
+[configuration]
+
+entry_symbol = "loadExtension"
+compatibility_minimum = "4.4"
+
+[libraries]
+
+linux.x86_64   = "linux_amd64.so"
+windows.x86_64 = "windows_amd64.dll"
+android.arm64  = "libandroid_arm64.so"
+macos.release = "darwin_universal.dylib"
+macos.debug = "darwin_universal.dylib"
+macos.arm64 = "darwin_arm64.dylib"
+macos.amd64 = "darwin_amd64.dylib"
