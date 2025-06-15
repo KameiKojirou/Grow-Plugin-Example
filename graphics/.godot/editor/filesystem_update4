@@ -1,4 +1,2 @@
 res://main.tscn
-res://main.gd
-res://addons/example-grow-plugin/grow-plugin.gd
-res://addons/example-grow-plugin/graphics.library.gdextension
+res://addons/example-grow-plugin-two/grow-plugin-two.gd
